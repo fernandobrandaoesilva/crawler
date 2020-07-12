@@ -15,14 +15,15 @@ Crawler criado com o objetivo de pesquisa de itens no Mercado Livre, retornando 
 Necessário para execução do projeto:
 - Nodejs 
 - NPM
-- executar npm install (criação pasta node_modules)
+- executar npm install
 
 
-## Instalação
+## Instalação / Execução
 
 Executar os comandos:
 
-- npm run dev
+- npm install (instalar dependedências / criação pasta node_modules)
+- npm run dev (executar aplicação)
 - Acessar http://localhost:3000
 
 ## Exemplo chamada
